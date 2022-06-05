@@ -1,0 +1,7 @@
+{
+  "name": "newion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
